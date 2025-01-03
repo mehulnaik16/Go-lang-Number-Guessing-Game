@@ -12,7 +12,7 @@ Welcome to the Number Guessing Game! This is a simple command-line game written 
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/your-username/number-guessing-game-go.git
+   git clone https://github.com/mehulnaik16/Go-lang-Number-Guessing-Game.git
    cd number-guessing-game-go
    ```
 
